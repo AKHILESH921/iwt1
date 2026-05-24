@@ -68,6 +68,4 @@ Project	Description	Stack
 </div>
 ---
 <div align="center">
-"I don't just write code — I build systems that sense, think, and act in the real world."
-⭐ If you find my work interesting, give a star to my projects! ⭐
 </div>
